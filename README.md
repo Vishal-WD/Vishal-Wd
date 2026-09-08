@@ -1,21 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=C.%20Vishal&fontSize=60&fontColor=FFD700&fontAlignY=35&desc=AI%20Engineer%20%7C%20GenAI%20Builder%20%7C%20Patent%20Holder&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+![Vishal Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=C.%20Vishal&fontSize=60&fontColor=FFD700&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Platform%20Builder%20%7C%20Agentic%20AI%20Architect&descAlignY=50&descAlign=62)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=650&lines=Building+deployable%2C+scalable+AI+systems;LangChain+%2B+RAG+%2B+Agentic+Workflows;Computer+Vision+%40+95%25+Accuracy;Patent+Holder+%E2%80%94+LUNA+Terminal+Assistant" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/vishal-wd"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:vishalchandran6126@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Vishal-WD"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=Vishal-WD&style=for-the-badge&color=FFD700&label=PROFILE+VIEWS" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-wd)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalchandran6126@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishal-WD)
+[![Profile Views](https://komarev.com/ghpvc/?username=Vishal-WD&style=for-the-badge&color=FFD700&label=PROFILE+VIEWS)](https://github.com/Vishal-WD)
 
 </div>
 
-<br/>
+---
 
-## 🧠 Who Am I
+## 🧠 About Me
 
 ```yaml
 name        : C. Vishal
@@ -23,12 +19,11 @@ education   : B.Tech CS (Data Science) @ KARE  |  CGPA: 8.45 / 10
 currently   : PwC Advisory Launchpad — Cloud · GenAI · Enterprise Advisory
 building    : Scalable AI pipelines, agentic workflows & full-stack data platforms
 patent      : LUNA — GenAI Terminal Assistant (Patent Pending)
-award       : 1st Prize @ KARE SCRS Hackathon (VisionSense for Orientbell Tiles)
-published   : Research Paper — AI Speech Recognition Module, EPRA IJMR 2022
-philosophy  : "Build AI that is not just functional — but deployable, scalable & impactful."
+award       : 1st Prize @ KARE SCRS Hackathon (VisionSense)
+philosophy  : "Engineer AI that is not just functional — but deployable, scalable & impactful."
 ```
 
-<br/>
+---
 
 ## 🚀 What I Build
 
@@ -37,8 +32,7 @@ philosophy  : "Build AI that is not just functional — but deployable, scalable
 <td width="50%" valign="top">
 
 ### 🤖 AI & Generative AI
-Production LLM pipelines, RAG systems & agentic workflows using LangChain, OpenAI, Claude API & HuggingFace.
-I don't just experiment — I **ship**.
+Production LLM pipelines, RAG systems & agentic workflows using LangChain, OpenAI, Claude API & HuggingFace. I don't just experiment — I **ship**.
 
 </td>
 <td width="50%" valign="top">
@@ -64,7 +58,7 @@ n8n workflows, Claude Code, AI-assisted pipelines — automating the boring stuf
 </tr>
 </table>
 
-<br/>
+---
 
 ## 🛠️ Tech Stack
 
@@ -72,45 +66,44 @@ n8n workflows, Claude Code, AI-assisted pipelines — automating the boring stuf
 
 **Languages & Core**
 
-<img src="https://skillicons.dev/icons?i=python,c,angular,js" />
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **AI / ML / GenAI**
-
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,opencv" />
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG%20Systems-2C5364?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
+![RAG Systems](https://img.shields.io/badge/RAG%20Systems-2C5364?style=flat-square&logoColor=white)
 ![YOLOv11](https://img.shields.io/badge/YOLOv11-111111?style=flat-square&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0F2027?style=flat-square&logoColor=white)
-![Fine-Tuning](https://img.shields.io/badge/Model%20Fine--Tuning-203A43?style=flat-square&logoColor=white)
 
 **Databases & Backend**
 
-<img src="https://skillicons.dev/icons?i=postgres,firebase,fastapi,git" />
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
 
-**Data, BI & Analytics**
+**Data & BI**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**DevTools & Platforms**
+**DevTools & Cloud**
 
-<img src="https://skillicons.dev/icons?i=vscode,github,gcp,linux" />
-
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 
 </div>
 
-<br/>
+---
 
 ## 💼 Experience
 
@@ -138,118 +131,101 @@ Backend modules for fintech apps. RESTful APIs for real-time financial tracking 
 Automated AI workflow integrating Excel + Gmail + Google Calendar. Logic-based scheduling from facility report priorities.
 </details>
 
-<br/>
+---
 
 ## 🏗️ Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+| Project | Tech Stack | Recognition |
+|---------|-----------|--------------|
+| **🌙 LUNA — GenAI Terminal Assistant** | Python, LangChain, RAG, OpenAI | 📜 Patent Pending |
+| **👁️ VisionSense — Retail AI Analytics** | YOLOv11, ByteTrack, Angular | 🥇 1st Prize Hackathon |
+| **💧 AquaSense — Water Quality Monitor** | FastAPI, PostgreSQL, IoT, ML | 🥈 2nd Place Award |
+| **🎓 Campus Connect — University Platform** | React, Firebase, FastAPI | 🌍 ABET Global Showcase |
+| **🤖 Placement Agent Swarm** | LangGraph, Pydantic, Pytest | 🏆 Production-Ready |
 
-### 🌙 LUNA — GenAI Terminal Assistant
-*Patent Pending*
-
-Context-aware terminal ecosystem using RAG on internal docs. Session-based logging, CLI command explanations & automated technical doc generation.
-
-![Python](https://img.shields.io/badge/-Python-FF6B35?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-![RAG](https://img.shields.io/badge/-RAG-2C5364?style=flat-square)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 👁️ VisionSense — Retail AI Analytics
-*1st Prize, KARE SCRS Hackathon*
-
-CCTV-based customer analytics for Orientbell Tiles. Navigation patterns, dwell time, real-time sentiment. Staff vs. Customer classifier at **95% accuracy**.
-
-![YOLO](https://img.shields.io/badge/-YOLOv11-111111?style=flat-square)
-![ByteTrack](https://img.shields.io/badge/-ByteTrack-2C5364?style=flat-square)
-![DeepFace](https://img.shields.io/badge/-DeepFace-203A43?style=flat-square)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💧 AquaSense AI — Water Quality Monitor
-*Infosys Springboard*
-
-High-performance backend for global water monitoring with concurrent IoT data streams, predictive alerting, and real-time health trend dashboards.
-
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 Campus Connect — Role-Based Platform
-*ABET Accreditation Showcase*
-
-Full-stack campus platform selected for global ABET accreditation. Firebase Auth, Firestore RBAC, and real-time data sync for a campus-wide resource hub.
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/-Firestore-FFA000?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-<br/>
+---
 
 ## 🏆 Achievements & Recognition
 
 | | Achievement | Detail |
 |:---:|:---|:---|
-| 🥇 | **1st Prize — KARE SCRS Hackathon** | VisionSense: Computer Vision for Retail Intelligence (Orientbell Tiles) |
+| 🥇 | **1st Prize — KARE SCRS Hackathon** | VisionSense: Computer Vision for Retail Intelligence |
 | 📜 | **Patent Pending — LUNA** | Original contribution to developer workflow automation via RAG |
-| 📰 | **Research Paper Published** | *"Voice Assistant – AI Speech Recognition Module"* — EPRA IJMR, March 2022 |
+| 📰 | **Research Paper Published** | *"Voice Assistant – AI Speech Recognition Module"* — EPRA IJMR 2022 |
 | 🎖️ | **ABET Accreditation Benchmark** | Campus Connect chosen as primary showcase for global accreditation auditors |
 | 🏢 | **PwC Advisory Launchpad** | Competitively selected for enterprise Cloud & GenAI advisory training |
+| 🥈 | **2nd Place — EUPHORIA 2026** | AquaSense: IoT-based Water Quality Monitoring |
 
-<br/>
+---
 
 ## 📜 Certifications
 
-![PwC](https://img.shields.io/badge/PwC%20Advisory%20Launchpad-In%20Progress-D04A02?style=for-the-badge)
-![Oracle](https://img.shields.io/badge/Oracle%20OCI%20GenAI%20Professional-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Deloitte](https://img.shields.io/badge/Deloitte%20Data%20Analytics-Forage-86BC24?style=for-the-badge)
-![TCS](https://img.shields.io/badge/TCS%20Data%20Visualization-Forage-004D95?style=for-the-badge)
-![Infosys](https://img.shields.io/badge/Infosys%20Industry%20Readiness-Certified-007CC3?style=for-the-badge&logo=infosys&logoColor=white)
+![PwC Advisory Launchpad](https://img.shields.io/badge/PwC%20Advisory%20Launchpad-In%20Progress-D04A02?style=for-the-badge)
+![Oracle OCI GenAI](https://img.shields.io/badge/Oracle%20OCI%20GenAI%20Professional-Certified-F80000?style=for-the-badge&logo=oracle)
+![Deloitte Data Analytics](https://img.shields.io/badge/Deloitte%20Data%20Analytics-Forage-86BC24?style=for-the-badge)
+![TCS Data Visualization](https://img.shields.io/badge/TCS%20Data%20Visualization-Forage-004D95?style=for-the-badge)
+![Infosys Industry Readiness](https://img.shields.io/badge/Infosys%20Industry%20Readiness-Certified-007CC3?style=for-the-badge)
 
-<br/>
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vishal-WD&show_icons=true&theme=nightowl&title_color=FFD700&icon_color=2C5364&text_color=E0E0E0&bg_color=0D1117&border_color=203A43&count_private=true&rank_icon=github" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-WD&layout=compact&theme=nightowl&title_color=FFD700&text_color=E0E0E0&bg_color=0D1117&border_color=203A43&langs_count=6" height="170" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal-WD&show_icons=true&theme=nightowl&title_color=FFD700&icon_color=2C5364&text_color=E0E0E0&bg_color=0D1117&border_color=203A43&count_private=true&rank_icon=github)
 
-<img src="https://streak-stats.demolab.com/?user=Vishal-WD&theme=nightowl&background=0D1117&border=203A43&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700&sideLabels=E0E0E0&dates=8B8B8B" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-WD&layout=compact&theme=nightowl&title_color=FFD700&text_color=E0E0E0&bg_color=0D1117&border_color=203A43)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-WD&theme=react-dark&bg_color=0D1117&color=FFD700&line=FF6B35&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Vishal-WD&theme=nightowl&background=0D1117&border=203A43&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700&sideLabels=E0E0E0&dates=8B8B8B)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishal-WD&theme=react-dark&bg_color=0D1117&color=FFD700&line=FF6B35&point=FFFFFF&area=true&hide_border=true)
 
 </div>
 
-<br/>
+---
+
+## 💡 My Philosophy
+
+> **"I don't just prototype — I engineer AI systems that are deployable, scalable, and built to create measurable business value."**
+
+I believe in:
+- ✅ **Production-First Mindset:** Code that ships, not just experiments
+- ✅ **Type Safety & Testing:** Ruff, MyPy, Pytest — zero surprises
+- ✅ **Documentation Matters:** Clear README, API docs, and examples
+- ✅ **Scalability by Design:** Think 10x before you code
+- ✅ **Open Source First:** Give back to the community
+
+---
+
+## 🎯 Current Focus
+
+- 🔬 **Research:** Multi-agent systems with LangGraph
+- 🚀 **Development:** Production-grade GenAI applications
+- 📈 **Scaling:** Data platforms handling real-world IoT streams
+- 🤝 **Collaboration:** Building with teams at PwC & Infosys
+
+---
 
 ## 💬 Let's Build Something Impactful
 
 <div align="center">
 
-*"I don't just prototype — I engineer AI systems that are deployable, scalable, and built to create measurable business value."*
+I'm always interested in:
+- 🤖 Agentic AI & LLM applications
+- 📊 Data engineering at scale
+- 🏗️ Building production systems
+- 🌍 Open-source collaboration
 
-<a href="mailto:vishalchandran6126@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/vishal-wd"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Vishal-WD"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br/>
 
-<br/><br/>
+[📧 Email Me](mailto:vishalchandran6126@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/vishal-wd) • [💻 GitHub](https://github.com/Vishal-WD)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=FFD700&fontSize=22&fontAlignY=65" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&text=Let's%20Engineer%20the%20Future&fontColor=FFD700&fontSize=20&fontAlignY=65)
 
 </div>
